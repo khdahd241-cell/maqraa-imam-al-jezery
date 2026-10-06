@@ -17,3 +17,4 @@ for quran recitation & ijazah
 - Start Command: `npm start`
 
 > هذه النسخة واجهة أولية. نموذج التسجيل حاليًا تجريبي، وسيتم في المرحلة التالية ربطه بقاعدة بيانات وواتساب/بريد إلكتروني ولوحة تحكم.
+Fix render server configuration
