@@ -1,0 +1,13 @@
+{
+  "name": "maqraa-imam-al-jezery",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maqraa Al Imam Al-Jezery Quran Recitation and Ijazah Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
